@@ -11,6 +11,10 @@ https://machinelearningmastery.com/simple-linear-regression-tutorial-for-machine
 
 Statistics how to, url: https://www.statisticshowto.com/probability-and-statistics/regression-analysis/
 
+Understanding the Results of an Analysis: http://www.nlreg.com/results.htm#:~:text=The%20F%20value%20is%20the,the%20regression%20coefficients%20are%20zero).
+
+Real Python: Linear Regression in Python https://realpython.com/linear-regression-in-python/
+
 ### Numpy Polyfit()
 
 https://blog.finxter.com/np-polyfit/#:~:text=In%20Numpy%2C%20the%20function%20np.&text=The%20.-,polyfit()%20function%2C%20accepts%20three%20different%20input%20values%3A%20x%20%2C,degree%20of%20our%20polynomial%20function.
@@ -20,6 +24,8 @@ https://blog.finxter.com/np-polyfit/#:~:text=In%20Numpy%2C%20the%20function%20np
 https://www.scribbr.com/statistics/simple-linear-regression/
 
 ### Non-linear Regression
+
+towards data science: Machine Learning with Python: Easy and robust method to fit nonlinear data https://towardsdatascience.com/machine-learning-with-python-easy-and-robust-method-to-fit-nonlinear-data-19e8a1ddbd49
 
 https://stats.idre.ucla.edu/sas/examples/alsm/applied-linear-statistical-models-by-neter-kutner-et-al-chapter-13-introduction-to-nonlinear-regression/
 
@@ -53,4 +59,16 @@ Kasambara, Nonlinear Regression Essentials in R: Polynomial and Spline Regressio
 
 https://www.statisticshowto.com/nominal-ordinal-interval-ratio/
 
+### Linear Regression with Sklearn
 
+sklearn: train_test_split: sklearn.model_selection.train_test_split¶
+
+skearn: Metrics and scoring: quantifying the quality of predictionsL https://scikit-learn.org/stable/modules/model_evaluation.html
+
+Towards data science - how to split a dataframe into train and test set: https://towardsdatascience.com/how-to-split-a-dataframe-into-train-and-test-set-with-python-eaa1630ca7b3
+
+https://realpython.com/train-test-split-python-data/
+
+train_test_split: https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6
+
+stackoverflow solution explaining .target function: https://stackoverflow.com/questions/17414040/what-does-target-mean-in-scikits-linear-regression-object
