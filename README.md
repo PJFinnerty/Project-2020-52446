@@ -81,5 +81,20 @@ Heartbeat: https://heartbeat.fritz.ai/implementing-multiple-linear-regression-us
 
 https://towardsdatascience.com/polynomial-regression-bbe8b9d97491
 
+i2tutorials.com: https://www.i2tutorials.com/difference-between-simple-linear-regression-and-multi-linear-regression-and-polynomial-regression/
 
+https://www.mathsisfun.com/algebra/polynomials.html
+
+https://en.wikipedia.org/wiki/Polynomial_regression#:~:text=In%20statistics%2C%20polynomial%20regression%20is,nth%20degree%20polynomial%20in%20x.&text=Such%20variables%20are%20also%20used%20in%20classification%20settings.
+
+
+solution: https://towardsdatascience.com/polynomial-regression-bbe8b9d97491
+
+solution for graph: Zip(): https://www.w3schools.com/python/ref_func_zip.asp
+
+solution: sorted(): https://www.w3schools.com/python/ref_func_sorted.asp
+
+solution: operator(): https://docs.python.org/3/library/operator.html
+
+solution: operator.itemgett() and sort(): https://stackoverflow.com/questions/18595686/how-do-operator-itemgetter-and-sort-work#:~:text=In%20two%20words%20operator.,th%20element%20out%20of%20it.&text=So%2C%20here's%20an%20important%20note,other%20functions%20as%20a%20parameter.
 
