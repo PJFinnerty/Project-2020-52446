@@ -72,3 +72,14 @@ https://realpython.com/train-test-split-python-data/
 train_test_split: https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6
 
 stackoverflow solution explaining .target function: https://stackoverflow.com/questions/17414040/what-does-target-mean-in-scikits-linear-regression-object
+
+### Multiple Linear Regression
+
+Heartbeat: https://heartbeat.fritz.ai/implementing-multiple-linear-regression-using-sklearn-43b3d3f2fe8b
+
+### Polynomial Regression
+
+https://towardsdatascience.com/polynomial-regression-bbe8b9d97491
+
+
+
