@@ -115,5 +115,9 @@
 
 * Parts of a Polynomial, Sideplayer, url: https://slideplayer.com/slide/14484666/90/images/7/%F0%9D%9F%91%F0%9D%92%99+%F0%9D%9F%91+%E2%88%92+%F0%9D%9F%93%F0%9D%92%99+%F0%9D%9F%90+%E2%88%92%F0%9D%9F%90%F0%9D%92%99%2B%F0%9D%9F%8F+Parts+of+a+polynomial+Cubic+term+Linear+term.jpg
 
+https://dhirajkumarblog.medium.com/linear-regression-without-sklearn-from-scratch-5c83b46642f8
+
+https://statisticsbyjim.com/regression/standard-error-regression-vs-r-squared/#:~:text=However%2C%20there%20are%20differences%20between,fall%20from%20the%20regression%20line.&text=R%2Dsquared%20provides%20the%20relative,variance%20that%20the%20model%20explains.
+
 
 
