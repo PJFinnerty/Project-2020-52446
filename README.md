@@ -73,9 +73,6 @@ train_test_split: https://towardsdatascience.com/train-test-split-and-cross-vali
 
 stackoverflow solution explaining .target function: https://stackoverflow.com/questions/17414040/what-does-target-mean-in-scikits-linear-regression-object
 
-### Multiple Linear Regression
-
-Heartbeat: https://heartbeat.fritz.ai/implementing-multiple-linear-regression-using-sklearn-43b3d3f2fe8b
 
 ### Polynomial Regression
 
@@ -98,3 +95,19 @@ solution: operator(): https://docs.python.org/3/library/operator.html
 
 solution: operator.itemgett() and sort(): https://stackoverflow.com/questions/18595686/how-do-operator-itemgetter-and-sort-work#:~:text=In%20two%20words%20operator.,th%20element%20out%20of%20it.&text=So%2C%20here's%20an%20important%20note,other%20functions%20as%20a%20parameter.
 
+https://towardsdatascience.com/polynomial-regression-the-only-introduction-youll-need-49a6fb2b86de
+
+https://towardsdatascience.com/machine-learning-polynomial-regression-with-python-5328e4e8a386
+
+In sklearn, how can I get which coefficient corresponds to which parameter in a polynomial linear regression?: https://stackoverflow.com/questions/56023392/in-sklearn-how-can-i-get-which-coefficient-corresponds-to-which-parameter-in-a
+
+
+### Multiple Linear Regression
+
+https://heartbeat.fritz.ai/implementing-multiple-linear-regression-using-sklearn-43b3d3f2fe8b
+
+Heartbeat: https://heartbeat.fritz.ai/implementing-multiple-linear-regression-using-sklearn-43b3d3f2fe8b
+
+### General Solutions
+
+Numpy New Axis function: https://stackoverflow.com/questions/29241056/how-does-numpy-newaxis-work-and-when-to-use-it
