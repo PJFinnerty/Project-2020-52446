@@ -100,6 +100,7 @@
 
 * 'In sklearn, how can I get which coefficient corresponds to which parameter in a polynomial linear regression?', Stack Overflow, May 2019, url: https://stackoverflow.com/questions/56023392/in-sklearn-how-can-i-get-which-coefficient-corresponds-to-which-parameter-in-a
 
+https://towardsdatascience.com/polynomial-regression-the-only-introduction-youll-need-49a6fb2b86de
 
 ### Multiple Linear Regression
 
@@ -114,6 +115,11 @@
 * Gradient of the Line: y = mx + c, Pinterest, url: https://i.pinimg.com/originals/d3/36/bd/d336bddce77d0769448561fde53b0372.jpg
 
 * Parts of a Polynomial, Sideplayer, url: https://slideplayer.com/slide/14484666/90/images/7/%F0%9D%9F%91%F0%9D%92%99+%F0%9D%9F%91+%E2%88%92+%F0%9D%9F%93%F0%9D%92%99+%F0%9D%9F%90+%E2%88%92%F0%9D%9F%90%F0%9D%92%99%2B%F0%9D%9F%8F+Parts+of+a+polynomial+Cubic+term+Linear+term.jpg
+
+* Train/Test/Split image, KDnuggest, url: https://www.kdnuggets.com/wp-content/uploads/train_test_split.jpg
+
+
+===================================
 
 https://dhirajkumarblog.medium.com/linear-regression-without-sklearn-from-scratch-5c83b46642f8
 
