@@ -125,6 +125,6 @@ https://dhirajkumarblog.medium.com/linear-regression-without-sklearn-from-scratc
 
 https://statisticsbyjim.com/regression/standard-error-regression-vs-r-squared/#:~:text=However%2C%20there%20are%20differences%20between,fall%20from%20the%20regression%20line.&text=R%2Dsquared%20provides%20the%20relative,variance%20that%20the%20model%20explains.
 
+### Stats.models.api
 
-
-
+https://stackoverflow.com/questions/22268273/standard-deviation-error-of-linear-regression
