@@ -2,7 +2,7 @@
 
 # Project-2020-52446
 
-___________________________
+
 
 ## Project Details
 
@@ -22,19 +22,52 @@ Your submission must be in the form of a git repository containing, at a minimum
 
 I have decided to base this project on the comparison of Simple Linear Regression Vs. Polynomial Regression on the Powerproduction dataset.
 
-This comparison, I feel that comparing the accuracy of methods and models of both forms of regression is the best way to outline the various features of analysis and statistical considerations that must be considered when determining the line of best fit for a dataset.
+I feel that comparing the accuracy of methods and models of both forms of regression is the best way to outline the various features of analysis and statistical considerations that must be considered when determining the line of best fit for a dataset.
 
 Furthermore, this project is intended to have a second layer of comparison. For each form of regression, an example of bad-practice regression has been compared with an example of accurate modelling. 
 
 The former has been highlighted by carrying out regression on the entire dataset, whilst the accurate models are analysed using Sklearn and are completed on split data samples using the train_test_split method.
 
-I have attempted to touch on the core aspect of the content covered this semester in Fundamentals of Data Analysis and utilise what I have learned to unravel the porject requirements.
+I have attempted to touch on the core aspect of the content covered this semester in Fundamentals of Data Analysis and utilise what I have learned to unravel the project requirements.
 
-_________________________
+
 
 ## Files
 
-1.
+1. Project-2020-PeterFinnerty.ipynb: The project file
+
+Note: Files 2-12 are csv files saved from the porject file, each an array from the Sklearn Test/Training models, saved separately.
+
+2. 1_x_test.csv
+
+3. 1_x_train.csv
+
+4. 1_y_predict.csv
+
+5. 1_y_test.csv
+
+6. 1_y_train.csv
+
+7. 2_x_poly.csv
+
+8. 2_x_test.csv
+
+9. 2_x_train.csv
+
+10. 2_y_poly_pred_2.csv
+
+11. 2_y_test.csv
+
+12. 2_y_train.csv
+
+13. debug.log 
+
+14. LICENSE
+
+15. powerproduction.txt: File containing the project question dataset
+
+16. README.md
+
 
 
 ## Bibligraphy
@@ -150,6 +183,4 @@ _________________________
 * Train/Test/Split image, KDnuggest, url: https://www.kdnuggets.com/wp-content/uploads/train_test_split.jpg
 
 * Simple Linear Regression image, Medium, url: https://medium.com/towards-artificial-intelligence/linear-regression-basics-for-absolute-beginners-68ed9ff980ae
-
-
 
